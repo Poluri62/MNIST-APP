@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DigitRecognizer</string>
+    <string name="Color">Colors</string>
+    <string name="Stroke">Strokes</string>
+    <string name="Clear">Clear</string>
+    <string name="Detect">Detect</string>
+</resources>
